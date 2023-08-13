@@ -356,3 +356,14 @@
 # print(point1.x)
 
 # constructors
+# exercise
+class Person:
+    def __init__(self, name):
+        self.name = name
+
+    def talk(self):
+        print(f"Hi i am ")
+
+sen = Person("senator olo")
+print(sen.name)
+sen.talk()
