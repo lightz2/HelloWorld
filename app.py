@@ -329,12 +329,30 @@
 # print(square(3))
 
 # exeptions
-try:
-    age = int(input("age: "))
-    income = 20000
-    risk = income / age
-    print(age)
-except ZeroDivisionError:
-    print("age can npt be 0.")
-except ValueError:
-    print("Invalid value")
+# try:
+#     age = int(input("age: "))
+#     income = 20000
+#     risk = income / age
+#     print(age)
+# except ZeroDivisionError:
+#     print("Age can not be 0.")
+# except ValueError:
+#     print("Invalid value")
+
+# comments
+# 
+
+# classes
+# class Point:
+#     def move(self):
+#         print(move)
+    
+#     def draw(self):
+#         print(draw)
+
+# Point1 = Point()
+# Point1.x = 10
+# Point1.y = 20
+# print(point1.x)
+
+# constructors
