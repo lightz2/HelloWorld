@@ -311,7 +311,7 @@
 # greet_user("Tolashe", "smith")
 # print("Finish")
 
-# keywords arguments
+# KEYWORDS ARGUMENT
 # def greet_user(first_name, last_name):
 #     print(f"Hi {first_name} {last_name}")
 #     print("Welcome on board")
@@ -328,7 +328,7 @@
 
 # print(square(3))
 
-# exeptions
+# EXEPTIONS
 # try:
 #     age = int(input("age: "))
 #     income = 20000
@@ -339,10 +339,10 @@
 # except ValueError:
 #     print("Invalid value")
 
-# comments
+# COMMENT
 # 
 
-# classes
+# CLASSES
 # class Point:
 #     def move(self):
 #         print(move)
@@ -355,7 +355,7 @@
 # Point1.y = 20
 # print(point1.x)
 
-# constructors
+# CONSTRUCTORS
 # exercise
 # class Person:
 #     def __init__(self, name):
@@ -370,7 +370,7 @@
 # bob = Person("bob sen")
 # bob.talk()
 
-# inheretance
+# INHERITANCE
 # class Mammal:
 #      def walk(self):
 #         print("walk")
